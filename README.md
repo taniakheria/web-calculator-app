@@ -66,16 +66,5 @@ To deploy the project on your own GitHub Pages, follow these steps:
    
 Your project will be published on GitHub Pages.
 
-## Contributing
-
-If you'd like to contribute to this project, please open an issue and discuss your proposed changes. We welcome contributions and pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
-
-
 
 
